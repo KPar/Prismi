@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Prismi</string>
+    <string name="materialChart">Flat</string>
+    <string name="flatChart">Material</string>
+    <string name="webChart">Web</string>
+    <string name="Hue">Hue</string>
+    <string name="Saturation">Saturation</string>
+    <string name="Lightness">Lightness</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="hex">hex</string>
+    <string name="hsl">hsl</string>
+    <string name="rgb">rgb</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="addPalette">Add Palette</string>
+    <string name="editPalette">Edit Palette</string>
+    <string name="namePalette">Title&#8230;</string>
+    <string name="cancel">cancel</string>
+    <string name="close">close</string>
+    <string name="ok">ok</string>
+    <string name="palettes">palettes</string>
+    <string name="colorCharts">color charts</string>
+    <string name="aboutText1">Created by Kenny Paredes of Valient Dots</string>
+    <string name="aboutText2">May you find all the colors that fit your purpose</string>
+
+
+
+</resources>

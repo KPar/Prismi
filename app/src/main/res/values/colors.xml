@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="pos">#7d82ba</color>
+
+
+    <color name="textHint">#2d000000</color>
+
+    f4cb72
+    <color name="gold">#f4cb72</color>
+    <color name="purple">#7283f4</color>
+    <color name="green">#9ec57c</color>
+
+    <color name="real_transparent">#00FFFFFF</color>
+    <color name="grayShadow">#23000000</color>
+    <color name="grayShadow2">#07000000</color>
+
+    <color name="real_transparent2">#00ffffff</color>
+    <color name="whiteShadow">#ffffff</color>
+    <color name="whiteShadow2">#d7ffffff</color>
+
+
+
+</resources>
