@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:paddingTop="15dp"
     android:paddingBottom="10dp">
     <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:paddingLeft="15dp"
-        android:paddingRight="15dp"
-        android:paddingBottom="5dp"
-        >
-        <TextView
-            android:layout_alignParentBottom="true"
-            android:paddingBottom="5dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/paletteTitle"
-            android:textSize="16sp"
-            android:letterSpacing="0.2"
-            android:textColor="#000000"
-            android:textAllCaps="true"
-
-            />
-
-        <ImageView
-            android:padding="5dp"
-            android:layout_alignParentRight="true"
-            android:id="@+id/addNewColor"
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:background="@drawable/ic_add"/>
-    </RelativeLayout>
-    <RelativeLayout
+        android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -49,4 +22,42 @@
 
         </FrameLayout>
     </RelativeLayout>
-</LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="5dp"
+        >
+        <TextView
+            android:maxLines="1"
+            android:maxEms="12"
+            android:ellipsize="end"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentBottom="true"
+            android:padding="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/paletteTitle"
+            android:textSize="14sp"
+            android:letterSpacing="0.1"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:background="#243043"
+            />
+        <LinearLayout
+            android:layout_marginLeft="0dp"
+            android:paddingLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#243043"
+            >
+            <ImageView
+                android:id="@+id/addNewColor"
+                android:layout_width="34.5dp"
+                android:layout_height="34.5dp"
+                android:backgroundTint="#FFFFFF"
+                android:background="@drawable/ic_add"/></LinearLayout>
+    </LinearLayout>
+</FrameLayout>

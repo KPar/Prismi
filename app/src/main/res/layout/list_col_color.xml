@@ -8,14 +8,14 @@
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/colorBox1"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
         android:layout_marginLeft="15dp"
         ></LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/colorBox2"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
         ></LinearLayout>
 </FrameLayout>
