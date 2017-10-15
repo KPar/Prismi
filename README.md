@@ -3,6 +3,12 @@ An Android color picker app for users to easily choose and organize the colors t
 
 Available in the Play Store: https://play.google.com/store/apps/details?id=com.valiantdots.prismi
 
+#### Features
+- HSL & RGB Color Pickers and conversions
+- Quickly preview colors by long pressing
+- Popular palette charts (Material, Flat, Web) available for inspiration
+- Color format available in HEX, RGB, and HSL
+
 ## Screenshots
 #### Main Activity
 
