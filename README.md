@@ -1,7 +1,24 @@
 # Prismi
-An Android color picker app.
+An Android color picker app for users to easily choose and organize the colors that align with their goals.
 
 Available in the Play Store: https://play.google.com/store/apps/details?id=com.valiantdots.prismi
+
+## Screenshots
+#### Main Activity
+
+<img src="https://github.com/KPar/Prismi/blob/master/images/device-2017-10-14-012050.png?raw=true" alt="Main Activity 1" width="45%" height="45%"/>
+
+<img src="https://github.com/KPar/Prismi/blob/master/images/device-2017-10-14-012159.png?raw=true" alt="Main Activity 2"  width="45%" height="45%"/>
+
+
+#### Color Chart
+
+<img src="https://github.com/KPar/Prismi/blob/master/images/device-2017-08-15-170637.png?raw=true" alt="Color Chart"  width="45%" height="45%"/>
+
+
+#### Color Picker  (HSL & RGB)
+
+<img src="https://github.com/KPar/Prismi/blob/master/images/device-2017-08-15-171942.png?raw=true" alt="Color Picker"  width="45%" height="45%"/>
 
 ## License
 ```
