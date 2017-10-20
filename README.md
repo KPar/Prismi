@@ -24,7 +24,7 @@ Available in the Play Store: https://play.google.com/store/apps/details?id=com.v
 
 #### Color Picker  (HSL & RGB)
 
-<img src="https://github.com/KPar/Prismi/blob/master/images/device-2017-08-15-171942.png?raw=true" alt="Color Picker"  width="45%" height="45%"/>
+<img src="https://github.com/KPar/Prismi/blob/master/images/device-2017-10-19-231709.png?raw=true" alt="Color Picker" width="45%" height="45%"/>
 
 ## License
 ```
